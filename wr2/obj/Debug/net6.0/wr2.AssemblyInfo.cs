@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("VProgC#")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("wr2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("VProgC#")]
-[assembly: System.Reflection.AssemblyTitleAttribute("VProgC#")]
+[assembly: System.Reflection.AssemblyProductAttribute("wr2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("wr2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
