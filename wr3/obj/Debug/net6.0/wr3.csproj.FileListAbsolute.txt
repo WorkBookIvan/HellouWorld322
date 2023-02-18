@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Python course\VProgC#\wr3\bin\Debug\net6.0\wr3.exe
+C:\Users\1\Desktop\Python course\VProgC#\wr3\bin\Debug\net6.0\wr3.deps.json
+C:\Users\1\Desktop\Python course\VProgC#\wr3\bin\Debug\net6.0\wr3.runtimeconfig.json
+C:\Users\1\Desktop\Python course\VProgC#\wr3\bin\Debug\net6.0\wr3.dll
+C:\Users\1\Desktop\Python course\VProgC#\wr3\bin\Debug\net6.0\wr3.pdb
+C:\Users\1\Desktop\Python course\VProgC#\wr3\obj\Debug\net6.0\wr3.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Python course\VProgC#\wr3\obj\Debug\net6.0\wr3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Python course\VProgC#\wr3\obj\Debug\net6.0\wr3.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Python course\VProgC#\wr3\obj\Debug\net6.0\wr3.AssemblyInfo.cs
+C:\Users\1\Desktop\Python course\VProgC#\wr3\obj\Debug\net6.0\wr3.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Python course\VProgC#\wr3\obj\Debug\net6.0\wr3.dll
+C:\Users\1\Desktop\Python course\VProgC#\wr3\obj\Debug\net6.0\refint\wr3.dll
+C:\Users\1\Desktop\Python course\VProgC#\wr3\obj\Debug\net6.0\wr3.pdb
+C:\Users\1\Desktop\Python course\VProgC#\wr3\obj\Debug\net6.0\wr3.genruntimeconfig.cache
+C:\Users\1\Desktop\Python course\VProgC#\wr3\obj\Debug\net6.0\ref\wr3.dll
